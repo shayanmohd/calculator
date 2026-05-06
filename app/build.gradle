@@ -7,7 +7,7 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.minimalist.calculator'
+        applicationId 'com.socialsure.calculator'
         minSdk 23
         targetSdk 35
         versionCode 1
